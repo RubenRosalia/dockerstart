@@ -1,4 +1,3 @@
-export default function test() {
-    console.log('hello from test function');
-  }
-  
+function test () {
+    console.log("12345");
+}

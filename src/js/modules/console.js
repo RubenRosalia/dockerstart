@@ -1,3 +1,3 @@
 function test () {
-    console.log("hello world!");
+    console.log("12345");
 }
