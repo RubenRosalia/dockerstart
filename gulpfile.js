@@ -46,6 +46,7 @@ gulp.task('js-modules', function () {
 
 /**
  * Gulp task to automatically reload the browser when files change on port 80.
+ * PS: You need to install the LiveReload extension in your browser & clear cookies incase of any issues.
  * @task live-reload
  */
 gulp.task('live-reload', function() {
