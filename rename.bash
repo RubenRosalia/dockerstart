@@ -25,3 +25,6 @@ for file_path in "${file_paths[@]}"; do
         echo "File not found: $file_path"
     fi
 done
+
+# Remove rename.bash and build.bash
+rm -f build.bash rename.bash
