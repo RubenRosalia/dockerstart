@@ -28,3 +28,6 @@ done
 
 # Remove rename.bash and build.bash
 rm -f build.bash rename.bash
+
+# Remove .git folder
+rm -rf .git
